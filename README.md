@@ -1,4 +1,4 @@
-# Spam-Mail-Prediction-Model
+# Spam Mail Prediction Model
 ## Problem Statement
 The widespread use of email as a communication channel has led to an increase in unwanted or unsolicited emails, commonly known as spam. Spam emails often contain malicious content or fraudulent schemes, leading to security risks and financial losses for individuals and organizations. Traditional methods of filtering spam, such as rule-based or content-based filtering, are not always effective, as spammers are continually adapting their tactics. Therefore, there is a need for a reliable and accurate spam mail prediction model that can identify spam emails and prevent them from reaching the user's inbox. A reliable and accurate model for predicting spam emails would save time and resources for email users and email providers, leading to a more efficient and secure communication channel.
 ## Data Information
